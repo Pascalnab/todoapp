@@ -28,6 +28,46 @@
   color: #61dafb;
 }
 
+
+ 
+#hello {
+  color: black; 
+  text-align: center;
+  width: auto;
+  font-size: 25px;
+  font-family: 'Lato';  
+}
+
+#header {
+  color: black;
+  text-align: center;
+  font-family: 'Montserrat'; 
+}
+
+#area {
+  
+  text-align: center;
+}
+
+.listclass {
+  text-align: center;
+}
+
+#listid {
+  display: inline-block;
+  text-align: left;
+  
+}
+
+#inputfield {
+  height: 60px;
+  width: 290px;
+}
+
+#liEl {
+  padding: 10px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
