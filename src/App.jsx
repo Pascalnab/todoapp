@@ -18,6 +18,7 @@ function App() {
   return (
     <>
       <Navbar />
+
       <Routes>
         <Route path="header" element={<Header />} />
         <Route path="/" element={<Home />} />

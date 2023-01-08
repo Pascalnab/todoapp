@@ -28,23 +28,21 @@
   color: #61dafb;
 }
 
- 
 #hello {
-  color: black; 
+  color: black;
   text-align: center;
   width: auto;
   font-size: 25px;
-  font-family: 'Lato';  
+  font-family: "Lato";
 }
 
 #header {
   color: black;
   text-align: center;
-  font-family: 'Montserrat'; 
+  font-family: "Montserrat";
 }
 
 #area {
-  
   text-align: center;
 }
 
@@ -55,7 +53,6 @@
 #listid {
   display: inline-block;
   text-align: left;
-  
 }
 
 #inputfield {
@@ -66,8 +63,6 @@
 #liEl {
   padding: 10px;
 }
-
-
 
 @keyframes App-logo-spin {
   from {
