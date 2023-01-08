@@ -1,10 +1,10 @@
 import React from 'react';
 
-let name = prompt("Your name?"); 
+//let name = prompt("Your name?"); 
 
 function Header() {
     return(<div>
-        <h1 id='header'>Welcome {name}!</h1>
+        <h1 id='header'>Welcome</h1>
     </div>)
 }
 

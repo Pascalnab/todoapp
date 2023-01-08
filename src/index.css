@@ -11,4 +11,33 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+} 
+
+.navlist {
+  background-color: aliceblue;
+  padding: 16px 32px;
 }
+
+.navlist a, .productnav a{
+  text-decoration: none;
+  margin-right: 16px; 
+}
+
+#submitbtn {
+  color: red;
+  font-size: large;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 20px;
+}
+
+#btn {
+  padding: 10px;
+  text-align: center;
+}
+
+
+/* nav a.active {
+  text-decoration: none;
+  font-weight: bold; 
+} */
+
